@@ -6,7 +6,7 @@ Section: __Section 06__.
 
 Team Mates:
 1. __Tasmia Rahman__ and __2112488__
-2. __Salmaan Mohammad Hanif Bhat__ and __2220429__
+2. __Salmaan Mohammad Hanif Bhat__ and __2114727__
 3. __Shopno Md Tanvir Ahmmed__ and __2219061__
 4. __Musanna Sarder Abdullah__ and __2220429__
 
